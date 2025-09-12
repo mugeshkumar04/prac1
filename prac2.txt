@@ -1,0 +1,1 @@
+new <i class="fa fa-text-height" aria-hidden="true"></i>
